@@ -1,0 +1,1 @@
+New-Item -Path "path" -Name "name" -ItemType "directory"
