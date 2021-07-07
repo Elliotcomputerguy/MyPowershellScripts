@@ -1,0 +1,95 @@
+##Desired state configuration 
+avoids configuration drift and sets a static configuration.
+It ensures that the desired onfiguratin remains static regardless of what other applications are installed.
+A DSC script is created with all the required settings and pushes it out to all the machines of your choice.
+Allows you to manage at scale. When the DSC is run it will create a .mof file for every computer. The LCM is
+a component on every machine that will read the DCS MOF file and install. 
+
+You can deploy via push or setup a pull server where we use a centralised server to pull the mof file
+
+Multiple activation keys MAC 
+50 USERS
+
+Key management service KMS
+Create a kms role volume activatiom managment tools. Add the customer volume activation key
+All works via DNS useing a srv locator record. Activation threshold are 5 servers or 5 clients. Activation validity period is 180
+
+Active-Directory based activation
+very similar to kms - recommended model does not reqiure any kms host, requires 2012 servers and win 8 and up
+
+automatic virtual machine activation.
+install a AVMA key on the host, has to run datacenter 2016 
+convert eval to standard using avma key
+dism /online /set-edition:standardcor /productkey: /accepteula
+slmgr /ato '= activate'
+slmgr /dlv
+
+##upgrade msft 2008 r2 / 2012 r2 to 2016
+
+# inplace upgrade
+ 
+not recommended due to issues down the line.
+between versions, server 2012r2 to 2016. You would have to carry out a inplace to 2012 from 2008.
+between editions, standard to dacenter
+between installation options, unsupported core to desktop
+between languages, unsupported english to french
+
+#clean install and migration
+
+server migration tools = command-line and powershell
+smigdeploy = distribution package and registration
+powershell *smig* cmdlets = migrating roles, features, and settings
+
+install migration tools on the destination server. run smigdeploy on the destination, specify the source machine and 
+a package will be output. You run the package on the source server. 
+
+##plan for virtualization
+Microsoft assessment and planning toolkit
+will allow you to scan all servers and 
+
+##manage and maintain images
+install.wim file are the container of all editions 
+nanoserver.wim  
+use dism for configuring the wim files.
+get-windowsimage
+get-windowsdriver
+
+##disks and filesystems
+
+sector sizes and allocations.
+disks are broken down into tracks, sectors, clusters
+spliced into tracks, made up of sectores. A contiguation of the secotr size is 
+known as a cluster or in windows a AUS allocation secotir size. 
+The smallest amount of size a file can be stored on a disk.
+if we format the disk to a 16kb aus. If the user creates a 1 kb file
+then we waste 15kb of space. the size on general tab is the size of the file
+and the size on disk is the size of the cluster
+
+what partition style are we going to use. 
+MBR or GPT
+
+MBR =
+partition type stored on boot sector
+partition limit 4 primry partitions, 3 logical and 1 extended
+volume size up to 2tb
+boot os yes
+when to use older systems
+
+GUID partition table
+partition type stored with every partition
+partition limit 128
+volume size 18eb 
+boot os ues, with uefi
+when to use, where ever possible
+ 
+##REFS
+Data integrity
+high availabilty
+opimized for vms
+prefered file system
+limitations:
+compression,encryption, deduplication,disk quotas,removable media, not bootable
+
+##configure shares
+configure via server manager for better options
+upon creation. 

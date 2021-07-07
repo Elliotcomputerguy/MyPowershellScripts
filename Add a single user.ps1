@@ -1,0 +1,1 @@
+New-ADUser -Name [Username] -AccountPassword(Read-Host -AsSecureString AccountPassword) -PassThru | Enable-ADAccount

@@ -1,0 +1,1 @@
+get-ADComputer | Format-Table DNSHostName, Enabled, Name, SamAccountName

@@ -1,0 +1,291 @@
+SAMAccountName,EmployeeID,Title,StreetAddress,City,PostalCode,State,Department,FirstName,LastName,Email,PhoneNumber
+guy1,1,Production Technician - WC60,7726 Driftwood Drive,Monroe,98272,Washington,Manufacturing,Guy,Gilbert,guy1@nuggetlab.com,320-555-0195
+kevin0,2,Marketing Assistant,7883 Missing Canyon Court,Everett,98201,Washington,Sales and Marketing,Kevin,Brown,kevin0@nuggetlab.com,150-555-0189
+roberto0,3,Engineering Manager,2137 Birchwood Dr,Redmond,98052,Washington,Research and Development,Roberto,Tamburello,roberto0@nuggetlab.com,212-555-0187
+rob0,4,Senior Tool Designer,5678 Lakeview Blvd.,Minneapolis,55402,Minnesota,Research and Development,Rob,Walters,rob0@nuggetlab.com,612-555-0100
+thierry0,5,Tool Designer,1970 Napa Ct.,Bothell,98011,Washington,Research and Development,Thierry,D'Hers,thierry0@nuggetlab.com,168-555-0183
+david0,6,Marketing Manager,3768 Door Way,Redmond,98052,Washington,Sales and Marketing,David,Bradley,david0@nuggetlab.com,913-555-0172
+jolynn0,7,Production Supervisor - WC60,7126 Ending Ct.,Seattle,98104,Washington,Manufacturing,JoLynn,Dobney,jolynn0@nuggetlab.com,903-555-0145
+ruth0,8,Production Technician - WC10,2176 Apollo Way,Everett,98201,Washington,Manufacturing,Ruth,Ellerbrock,ruth0@nuggetlab.com,145-555-0130
+gail0,9,Design Engineer,9435 Breck Court,Bellevue,98004,Washington,Research and Development,Gail,Erickson,gail0@nuggetlab.com,849-555-0139
+barry0,10,Production Technician - WC10,3114 Notre Dame Ave.,Snohomish,98296,Washington,Manufacturing,Barry,Johnson,barry0@nuggetlab.com,206-555-0180
+jossef0,11,Design Engineer,5670 Bel Air Dr.,Renton,98055,Washington,Research and Development,Jossef,Goldberg,jossef0@nuggetlab.com,122-555-0189
+terri0,12,Vice President of Engineering,7559 Worth Ct.,Renton,98055,Washington,Research and Development,Terri,Duffy,terri0@nuggetlab.com,819-555-0175
+sidney0,13,Production Technician - WC10,9277 Country View Lane,Edmonds,98020,Washington,Manufacturing,Sidney,Higa,sidney0@nuggetlab.com,424-555-0189
+taylor0,14,Production Supervisor - WC50,504 O St.,Edmonds,98020,Washington,Manufacturing,Taylor,Maxwell,taylor0@nuggetlab.com,508-555-0165
+jeffrey0,15,Production Technician - WC10,5734 Ashford Court,Monroe,98272,Washington,Manufacturing,Jeffrey,Ford,jeffrey0@nuggetlab.com,984-555-0185
+jo0,16,Production Supervisor - WC60,9693 Mellowood Street,Duvall,98019,Washington,Manufacturing,Jo,Brown,jo0@nuggetlab.com,632-555-0129
+doris0,17,Production Technician - WC10,5553 Cash Avenue,Kenmore,98028,Washington,Manufacturing,Doris,Hartwig,doris0@nuggetlab.com,328-555-0150
+john0,18,Production Supervisor - WC60,2639 Anchor Court,Seattle,98104,Washington,Manufacturing,John,Campbell,john0@nuggetlab.com,435-555-0113
+diane0,19,Production Technician - WC10,9006 Woodside Way,Redmond,98052,Washington,Manufacturing,Diane,Glimp,diane0@nuggetlab.com,202-555-0151
+steven0,20,Production Technician - WC30,181 Gaining Drive,Everett,98201,Washington,Manufacturing,Steven,Selikoff,steven0@nuggetlab.com,925-555-0114
+peter0,21,Production Control Manager,3670 All Ways Drive,Bellevue,98004,Washington,Manufacturing,Peter,Krebs,peter0@nuggetlab.com,913-555-0196
+stuart0,22,Production Technician - WC45,6448 Castle Court,Bellevue,98004,Washington,Manufacturing,Stuart,Munson,stuart0@nuggetlab.com,413-555-0136
+greg0,23,Production Technician - WC45,8684 Military East,Bellevue,98004,Washington,Manufacturing,Greg,Alderson,greg0@nuggetlab.com,332-555-0150
+david1,24,Production Technician - WC30,6697 Ridge Park Drive,Kenmore,98028,Washington,Manufacturing,David,Johnson,david1@nuggetlab.com,166-555-0162
+zheng0,25,Production Supervisor - WC10,6578 Woodhaven Ln.,Seattle,98104,Washington,Manufacturing,Zheng,Mu,zheng0@nuggetlab.com,113-555-0173
+ivo0,26,Production Technician - WC20,3841 Silver Oaks Place,Monroe,98272,Washington,Manufacturing,Ivo,Salmre,ivo0@nuggetlab.com,115-555-0179
+paul0,27,Production Technician - WC40,7270 Pepper Way,Bellevue,98004,Washington,Manufacturing,Paul,Komosinski,paul0@nuggetlab.com,147-555-0160
+ashvini0,28,Network Administrator,6580 Poor Ridge Court,Issaquah,98027,Washington,Executive General and Administration,Ashvini,Sharma,ashvini0@nuggetlab.com,656-555-0119
+kendall0,29,Production Technician - WC50,7439 Laguna Niguel,Seattle,98104,Washington,Manufacturing,Kendall,Keil,kendall0@nuggetlab.com,138-555-0128
+paula0,30,Human Resources Manager,4311 Clay Rd,Bellevue,98004,Washington,Executive General and Administration,Paula,Barreto de Mattos,paula0@nuggetlab.com,523-555-0175
+alejandro0,31,Production Technician - WC40,7127 Los Gatos Court,Seattle,98104,Washington,Manufacturing,Alejandro,McGuel,alejandro0@nuggetlab.com,668-555-0130
+garrett0,32,Production Technician - WC30,2115 Passing,Snohomish,98296,Washington,Manufacturing,Garrett,Young,garrett0@nuggetlab.com,609-555-0179
+jianshuo0,33,Production Technician - WC30,8310 Ridge Circle,Monroe,98272,Washington,Manufacturing,Jian Shuo,Wang,jianshuo0@nuggetlab.com,952-555-0178
+susan0,34,Stocker,2736 Scramble Rd,Renton,98055,Washington,Inventory Management,Susan,Eaton,susan0@nuggetlab.com,943-555-0196
+vamsi0,35,Shipping and Receiving Clerk,9833 Mt. Dias Blv.,Bothell,98011,Washington,Inventory Management,Vamsi,Kuppa,vamsi0@nuggetlab.com,937-555-0137
+alice0,36,Production Technician - WC50,3280 Pheasant Circle,Snohomish,98296,Washington,Manufacturing,Alice,Ciccu,alice0@nuggetlab.com,333-555-0173
+simon0,37,Production Technician - WC60,3421 Bouncing Road,Duvall,98019,Washington,Manufacturing,Simon,Rapier,simon0@nuggetlab.com,963-555-0134
+jinghao0,38,Production Supervisor - WC50,9666 Northridge Ct.,Carnation,98014,Washington,Manufacturing,Jinghao,Liu,jinghao0@nuggetlab.com,794-555-0159
+michael0,39,Production Technician - WC20,1792 Belmont Rd.,Monroe,98272,Washington,Manufacturing,Michael,Hines,michael0@nuggetlab.com,218-555-0126
+yvonne0,40,Production Technician - WC45,1962 Cotton Ct.,Everett,98201,Washington,Manufacturing,Yvonne,McKay,yvonne0@nuggetlab.com,286-555-0189
+peng0,41,Quality Assurance Supervisor,250 Race Court,Bothell,98011,Washington,Quality Assurance,Peng,Wu,peng0@nuggetlab.com,164-555-0164
+jean0,42,Information Services Manager,2383 Pepper Drive,Redmond,98052,Washington,Executive General and Administration,Jean,Trenary,jean0@nuggetlab.com,685-555-0120
+russell0,43,Production Technician - WC50,7616 Honey Court,Seattle,98104,Washington,Manufacturing,Russell,Hunter,russell0@nuggetlab.com,786-555-0144
+ascott0,44,Master Scheduler,9297 Kenston Dr.,Newport Hills,98006,Washington,Manufacturing,A. Scott,Wright,ascott0@nuggetlab.com,992-555-0194
+fred0,45,Production Technician - WC40,2601 Cambridge Drive,Snohomish,98296,Washington,Manufacturing,Fred,Northup,fred0@nuggetlab.com,818-555-0192
+sariya0,46,Marketing Specialist,1185 Dallas Drive,Everett,98201,Washington,Sales and Marketing,Sariya,Harnpadoungsataya,sariya0@nuggetlab.com,399-555-0176
+willis0,47,Recruiter,5452 Corte Gilberto,Everett,98201,Washington,Executive General and Administration,Willis,Johnson,willis0@nuggetlab.com,778-555-0141
+jun0,48,Production Technician - WC50,4909 Poco Lane,Redmond,98052,Washington,Manufacturing,Jun,Cao,jun0@nuggetlab.com,299-555-0113
+christian0,49,Maintenance Supervisor,8036 Summit View Dr.,Gold Bar,98251,Washington,Executive General and Administration,Christian,Kleinerman,christian0@nuggetlab.com,846-555-0157
+susan1,50,Production Technician - WC30,9104 Mt. Sequoia Ct.,Sammamish,98074,Washington,Manufacturing,Susan,Metters,susan1@nuggetlab.com,639-555-0164
+reuben0,51,Production Supervisor - WC40,1064 Slow Creek Road,Seattle,98104,Washington,Manufacturing,Reuben,D'sa,reuben0@nuggetlab.com,191-555-0112
+kirk0,52,Production Technician - WC45,1220 Bradford Way,Seattle,98104,Washington,Manufacturing,Kirk,Koenigsbauer,kirk0@nuggetlab.com,669-555-0150
+david2,53,Production Technician - WC60,931 Corte De Luna,Seattle,98104,Washington,Manufacturing,David,Ortiz,david2@nuggetlab.com,712-555-0119
+tengiz0,54,Control Specialist,3333 Madhatter Circle,Issaquah,98027,Washington,Quality Assurance,Tengiz,Kharatishvili,tengiz0@nuggetlab.com,910-555-0116
+hanying0,55,Production Technician - WC20,7297 RisingView,Redmond,98052,Washington,Manufacturing,Hanying,Feng,hanying0@nuggetlab.com,319-555-0139
+kevin1,56,Production Technician - WC40,7594 Alexander Pl.,Seattle,98104,Washington,Manufacturing,Kevin,Liu,kevin1@nuggetlab.com,714-555-0138
+annik0,57,Production Technician - WC60,7842 Ygnacio Valley Road,Seattle,98104,Washington,Manufacturing,Annik,Stahl,annik0@nuggetlab.com,499-555-0125
+suroor0,58,Production Technician - WC50,3281 Hillview Dr.,Edmonds,98020,Washington,Manufacturing,Suroor,Fatima,suroor0@nuggetlab.com,932-555-0161
+deborah0,59,Accounts Receivable Specialist,7640 First Ave.,Everett,98201,Washington,Executive General and Administration,Deborah,Poe,deborah0@nuggetlab.com,602-555-0194
+jim0,60,Production Technician - WC50,172 Turning Dr.,Edmonds,98020,Washington,Manufacturing,Jim,Scardelis,jim0@nuggetlab.com,679-555-0113
+carole0,61,Production Technician - WC30,8411 Mt. Orange Place,Edmonds,98020,Washington,Manufacturing,Carole,Poland,carole0@nuggetlab.com,688-555-0192
+george0,62,Production Technician - WC30,3074 Arbor Drive,Carnation,98014,Washington,Manufacturing,George,Li,george0@nuggetlab.com,518-555-0199
+gary0,63,Production Technician - WC40,6057 Hill Street,Edmonds,98020,Washington,Manufacturing,Gary,Yukish,gary0@nuggetlab.com,901-555-0125
+cristian0,64,Production Supervisor - WC10,7166 Brock Lane,Seattle,98104,Washington,Manufacturing,Cristian,Petculescu,cristian0@nuggetlab.com,434-555-0133
+raymond0,65,Production Technician - WC20,9784 Mt Etna Drive,Edmonds,98020,Washington,Manufacturing,Raymond,Sam,raymond0@nuggetlab.com,226-555-0197
+janaina0,66,Application Specialist,5979 El Pueblo,Issaquah,98027,Washington,Executive General and Administration,Janaina,Bueno,janaina0@nuggetlab.com,623-555-0155
+bob0,67,Production Technician - WC50,6387 Scenic Avenue,Bothell,98011,Washington,Manufacturing,Bob,Hohman,bob0@nuggetlab.com,611-555-0116
+shammi0,68,Production Technician - WC40,332 Laguna Niguel,Bellevue,98004,Washington,Manufacturing,Shammi,Mohamed,shammi0@nuggetlab.com,793-555-0179
+linda0,69,Production Technician - WC50,3284 S. Blank Avenue,Bellevue,98004,Washington,Manufacturing,Linda,Moschell,linda0@nuggetlab.com,612-555-0171
+mindy0,70,Benefits Specialist,9687 Shakespeare Drive,Newport Hills,98006,Washington,Executive General and Administration,Mindy,Martin,mindy0@nuggetlab.com,522-555-0147
+wendy0,71,Finance Manager,4525 Benedict Ct.,Sammamish,98074,Washington,Executive General and Administration,Wendy,Kahn,wendy0@nuggetlab.com,248-555-0134
+kim0,72,Stocker,1226 Shoe St.,Bothell,98011,Washington,Inventory Management,Kim,Ralls,kim0@nuggetlab.com,309-555-0129
+sandra0,73,Production Technician - WC30,1619 Stillman Court,Seattle,98104,Washington,Manufacturing,Sandra,Reátegui Alayo,sandra0@nuggetlab.com,896-555-0168
+kok-ho0,74,Production Supervisor - WC50,3708 Montana,Bellevue,98004,Washington,Manufacturing,Kok-Ho,Loh,kok-ho0@nuggetlab.com,999-555-0155
+douglas0,75,Production Technician - WC45,390 Ridgewood Ct.,Carnation,98014,Washington,Manufacturing,Douglas,Hite,douglas0@nuggetlab.com,808-555-0172
+james0,76,Production Technician - WC60,4734 Sycamore Court,Monroe,98272,Washington,Manufacturing,James,Kramer,james0@nuggetlab.com,119-555-0117
+sean0,77,Quality Assurance Technician,7985 Center Street,Renton,98055,Washington,Quality Assurance,Sean,Alexander,sean0@nuggetlab.com,420-555-0173
+nitin0,78,Production Technician - WC20,4096 San Remo,Sammamish,98074,Washington,Manufacturing,Nitin,Mirchandani,nitin0@nuggetlab.com,143-555-0173
+diane1,79,Research and Development Engineer,475 Santa Maria,Everett,98201,Washington,Research and Development,Diane,Margheim,diane1@nuggetlab.com,815-555-0138
+rebecca0,80,Production Technician - WC60,3197 Thornhill Place,Bellevue,98004,Washington,Manufacturing,Rebecca,Laszlo,rebecca0@nuggetlab.com,314-555-0113
+rajesh0,81,Production Technician - WC40,5423 Champion Rd.,Edmonds,98020,Washington,Manufacturing,Rajesh,Patel,rajesh0@nuggetlab.com,373-555-0137
+vidur0,82,Recruiter,3030 Blackburn Ct.,Newport Hills,98006,Washington,Executive General and Administration,Vidur,Luthra,vidur0@nuggetlab.com,153-555-0186
+john1,83,Production Technician - WC50,136 Balboa Court,Seattle,98104,Washington,Manufacturing,John,Evans,john1@nuggetlab.com,172-555-0130
+nancy0,84,Production Technician - WC60,7820 Bird Drive,Sammamish,98074,Washington,Manufacturing,Nancy,Anderson,nancy0@nuggetlab.com,970-555-0118
+pilar0,85,Shipping and Receiving Supervisor,5407 Cougar Way,Seattle,98104,Washington,Inventory Management,Pilar,Ackerman,pilar0@nuggetlab.com,577-555-0185
+david3,86,Production Technician - WC30,5025 Holiday Hills,Seattle,98104,Washington,Manufacturing,David,Yalovsky,david3@nuggetlab.com,373-555-0142
+david4,87,Production Supervisor - WC40,4095 Cooper Dr.,Kenmore,98028,Washington,Manufacturing,David,Hamilton,david4@nuggetlab.com,986-555-0177
+laura0,88,Production Technician - WC45,1825 Corte Del Prado,Duvall,98019,Washington,Manufacturing,Laura,Steele,laura0@nuggetlab.com,777-555-0141
+margie0,89,Production Technician - WC60,2080 Sycamore Drive,Edmonds,98020,Washington,Manufacturing,Margie,Shoop,margie0@nuggetlab.com,818-555-0128
+zainal0,90,Document Control Manager,342 San Simeon,Issaquah,98027,Washington,Quality Assurance,Zainal,Arifin,zainal0@nuggetlab.com,204-555-0115
+lorraine0,91,Production Technician - WC40,2059 Clay Rd,Edmonds,98020,Washington,Manufacturing,Lorraine,Nay,lorraine0@nuggetlab.com,845-555-0184
+fadi0,92,Production Technician - WC20,1285 Greenbrier Street,Snohomish,98296,Washington,Manufacturing,Fadi,Fakhouri,fadi0@nuggetlab.com,935-555-0116
+ryan0,93,Production Technician - WC40,177 11th Ave,Sammamish,98074,Washington,Manufacturing,Ryan,Cornelsen,ryan0@nuggetlab.com,208-555-0114
+candy0,94,Accounts Receivable Specialist,310 Winter Lane,Index,98256,Washington,Executive General and Administration,Candy,Spoon,candy0@nuggetlab.com,920-555-0177
+nuan0,95,Production Technician - WC50,3454 Bel Air Drive,Bellevue,98004,Washington,Manufacturing,Nuan,Yu,nuan0@nuggetlab.com,913-555-0184
+william0,96,Scheduling Assistant,6774 Bonanza,Bellevue,98004,Washington,Manufacturing,William,Vong,william0@nuggetlab.com,148-555-0145
+bjorn0,97,Production Technician - WC30,5802 Ampersand Drive,Seattle,98104,Washington,Manufacturing,Bjorn,Rettig,bjorn0@nuggetlab.com,199-555-0117
+scott0,98,Production Technician - WC45,7403 N. Broadway,Seattle,98104,Washington,Manufacturing,Scott,Gode,scott0@nuggetlab.com,391-555-0138
+michael1,99,Production Technician - WC40,207 Berry Court,Edmonds,98020,Washington,Manufacturing,Michael,Rothkugel,michael1@nuggetlab.com,454-555-0119
+lane0,100,Production Technician - WC20,"3029 Pastime Dr, # 2",Seattle,98104,Washington,Manufacturing,Lane,Sacksteder,lane0@nuggetlab.com,200-555-0117
+pete0,101,Production Technician - WC50,5375 Clearland Circle,Seattle,98104,Washington,Manufacturing,Pete,Male,pete0@nuggetlab.com,768-555-0123
+dan0,102,Application Specialist,1921 Ranch Road,Issaquah,98027,Washington,Executive General and Administration,Dan,Bacon,dan0@nuggetlab.com,166-555-0159
+david5,103,Assistant to the Chief Financial Officer,8967 Hamilton Ave.,Newport Hills,98006,Washington,Executive General and Administration,David,Barber,david5@nuggetlab.com,477-555-0132
+lolan0,104,Production Technician - WC50,8152 Claudia Dr.,Edmonds,98020,Washington,Manufacturing,Lolan,Song,lolan0@nuggetlab.com,582-555-0178
+paula1,105,Production Technician - WC40,2144 San Rafael,Seattle,98104,Washington,Manufacturing,Paula,Nartker,paula1@nuggetlab.com,476-555-0119
+mary0,106,Marketing Specialist,3928 San Francisco,Everett,98201,Washington,Sales and Marketing,Mary,Gibson,mary0@nuggetlab.com,531-555-0183
+mindaugas0,107,Production Technician - WC50,9825 Coralie Drive,Edmonds,98020,Washington,Manufacturing,Mindaugas,Krapauskas,mindaugas0@nuggetlab.com,637-555-0120
+eric0,108,Production Supervisor - WC20,371 Apple Dr.,Edmonds,98020,Washington,Manufacturing,Eric,Gubbels,eric0@nuggetlab.com,260-555-0119
+ken0,109,Chief Executive Officer,4350 Minute Dr.,Newport Hills,98006,Washington,Executive General and Administration,Ken,Sánchez,ken0@nuggetlab.com,697-555-0142
+jason0,110,Production Technician - WC30,9320 Teakwood Dr.,Bellevue,98004,Washington,Manufacturing,Jason,Watters,jason0@nuggetlab.com,571-555-0179
+mark0,111,Quality Assurance Technician,8585 Los Gatos Ct.,Issaquah,98027,Washington,Quality Assurance,Mark,Harrington,mark0@nuggetlab.com,147-555-0179
+janeth0,112,Production Technician - WC45,4566 La Jolla,Monroe,98272,Washington,Manufacturing,Janeth,Esteves,janeth0@nuggetlab.com,540-555-0191
+marc0,113,Production Technician - WC30,2473 Orchard Way,Sammamish,98074,Washington,Manufacturing,Marc,Ingle,marc0@nuggetlab.com,234-555-0169
+gigi0,114,Research and Development Engineer,7808 Brown St.,Bellevue,98004,Washington,Research and Development,Gigi,Matthew,gigi0@nuggetlab.com,185-555-0186
+paul1,115,Production Technician - WC20,1343 Prospect St,Bellevue,98004,Washington,Manufacturing,Paul,Singh,paul1@nuggetlab.com,727-555-0112
+frank0,116,Production Technician - WC40,8290 Margaret Ct.,Seattle,98104,Washington,Manufacturing,Frank,Lee,frank0@nuggetlab.com,158-555-0191
+françois0,117,Database Administrator,1144 Paradise Ct.,Issaquah,98027,Washington,Executive General and Administration,François,Ajenstat,françois0@nuggetlab.com,785-555-0110
+diane2,118,Production Technician - WC50,8192 Seagull Court,Kenmore,98028,Washington,Manufacturing,Diane,Tibbott,diane2@nuggetlab.com,361-555-0180
+jill0,119,Marketing Specialist,3238 Laguna Circle,Everett,98201,Washington,Sales and Marketing,Jill,Williams,jill0@nuggetlab.com,510-555-0121
+angela0,120,Production Technician - WC50,2687 Ridge Road,Edmonds,98020,Washington,Manufacturing,Angela,Barbariol,angela0@nuggetlab.com,150-555-0194
+matthias0,121,Shipping and Receiving Clerk,4312 Cambridge Drive,Renton,98055,Washington,Inventory Management,Matthias,Berndt,matthias0@nuggetlab.com,139-555-0120
+bryan0,122,Production Technician - WC60,2275 Valley Blvd.,Monroe,98272,Washington,Manufacturing,Bryan,Baker,bryan0@nuggetlab.com,712-555-0113
+jeff0,123,Production Supervisor - WC45,3385 Crestview Drive,Everett,98201,Washington,Manufacturing,Jeff,Hay,jeff0@nuggetlab.com,350-555-0167
+eugene0,124,Production Technician - WC30,7939 Bayview Court,Sammamish,98074,Washington,Manufacturing,Eugene,Zabokritski,eugene0@nuggetlab.com,241-555-0191
+barbara0,125,Production Technician - WC20,7145 Matchstick Drive,Sammamish,98074,Washington,Manufacturing,Barbara,Decker,barbara0@nuggetlab.com,119-555-0192
+chris0,126,Production Technician - WC45,6657 Sand Pointe Lane,Seattle,98104,Washington,Manufacturing,Chris,Preston,chris0@nuggetlab.com,200-555-0112
+sean1,127,Document Control Assistant,9314 Icicle Way,Issaquah,98027,Washington,Quality Assurance,Sean,Chai,sean1@nuggetlab.com,205-555-0132
+dan1,128,Database Administrator,5863 Sierra,Bellevue,98004,Washington,Executive General and Administration,Dan,Wilson,dan1@nuggetlab.com,653-555-0144
+mark1,129,Production Technician - WC60,9863 Ridge Place,Redmond,98052,Washington,Manufacturing,Mark,McArthur,mark1@nuggetlab.com,417-555-0154
+bryan1,130,Accounts Receivable Specialist,1397 Paradise Ct.,Newport Hills,98006,Washington,Executive General and Administration,Bryan,Walton,bryan1@nuggetlab.com,935-555-0199
+houman0,131,Production Technician - WC50,9882 Clay Rde,Redmond,98052,Washington,Manufacturing,Houman,Pournasseh,houman0@nuggetlab.com,180-555-0136
+sairaj0,132,Scheduling Assistant,8040 Hill Ct,Redmond,98052,Washington,Manufacturing,Sairaj,Uddin,sairaj0@nuggetlab.com,500-555-0159
+michiko0,133,Production Technician - WC30,1962 Ferndale Lane,Sammamish,98074,Washington,Manufacturing,Michiko,Osada,michiko0@nuggetlab.com,984-555-0148
+benjamin0,134,Production Technician - WC30,4231 Spar Court,Snohomish,98296,Washington,Manufacturing,Benjamin,Martin,benjamin0@nuggetlab.com,533-555-0111
+cynthia0,135,Production Supervisor - WC30,463 H Stagecoach Rd.,Kenmore,98028,Washington,Manufacturing,Cynthia,Randall,cynthia0@nuggetlab.com,352-555-0138
+kathie0,136,Production Technician - WC45,9241 St George Dr.,Everett,98201,Washington,Manufacturing,Kathie,Flood,kathie0@nuggetlab.com,446-555-0118
+britta0,137,Production Technician - WC60,2046 Las Palmas,Edmonds,98020,Washington,Manufacturing,Britta,Simon,britta0@nuggetlab.com,955-555-0169
+brian0,138,Production Technician - WC40,7230 Vine Maple Street,Snohomish,98296,Washington,Manufacturing,Brian,Lloyd,brian0@nuggetlab.com,110-555-0182
+david6,139,Accounts Manager,9605 Pheasant Circle,Gold Bar,98251,Washington,Executive General and Administration,David,Liu,david6@nuggetlab.com,646-555-0185
+laura1,140,Chief Financial Officer,6937 E. 42nd Street,Renton,98055,Washington,Executive General and Administration,Laura,Norman,laura1@nuggetlab.com,615-555-0110
+michael2,141,Production Technician - WC50,2038 Encino Drive,Edmonds,98020,Washington,Manufacturing,Michael,Patten,michael2@nuggetlab.com,441-555-0195
+andy0,142,Production Technician - WC30,4777 Rockne Drive,Bellevue,98004,Washington,Manufacturing,Andy,Ruth,andy0@nuggetlab.com,118-555-0110
+yuhong0,143,Production Supervisor - WC20,502 Alexander Pl.,Seattle,98104,Washington,Manufacturing,Yuhong,Li,yuhong0@nuggetlab.com,965-555-0155
+robert0,144,Production Technician - WC45,6843 San Simeon Dr.,Seattle,98104,Washington,Manufacturing,Robert,Rounthwaite,robert0@nuggetlab.com,589-555-0147
+andreas0,145,Quality Assurance Technician,1803 Olive Hill,Renton,98055,Washington,Quality Assurance,Andreas,Berglund,andreas0@nuggetlab.com,181-555-0124
+reed0,146,Production Technician - WC30,1275 West Street,Redmond,98052,Washington,Manufacturing,Reed,Koch,reed0@nuggetlab.com,678-555-0110
+linda1,147,Production Technician - WC20,77 Birchwood,Seattle,98104,Washington,Manufacturing,Linda,Randall,linda1@nuggetlab.com,696-555-0157
+james1,148,Vice President of Production,9652 Los Angeles,Monroe,98272,Washington,Manufacturing,James,Hamilton,james1@nuggetlab.com,870-555-0122
+ramesh0,149,Application Specialist,3848 East 39th Street,Issaquah,98027,Washington,Executive General and Administration,Ramesh,Meyyappan,ramesh0@nuggetlab.com,182-555-0134
+stephanie0,150,Network Manager,7435 Ricardo,Issaquah,98027,Washington,Executive General and Administration,Stephanie,Conroy,stephanie0@nuggetlab.com,594-555-0110
+samantha0,151,Production Technician - WC20,1648 Eastgate Lane,Bellevue,98004,Washington,Manufacturing,Samantha,Smith,samantha0@nuggetlab.com,587-555-0114
+tawana0,152,Production Technician - WC40,9964 North Ridge Drive,Seattle,98104,Washington,Manufacturing,Tawana,Nusbaum,tawana0@nuggetlab.com,368-555-0113
+denise0,153,Production Technician - WC50,5669 Ironwood Way,Kenmore,98028,Washington,Manufacturing,Denise,Smith,denise0@nuggetlab.com,869-555-0119
+hao0,154,Human Resources Administrative Assistant,"7691 Benedict Ct., # 141",Issaquah,98027,Washington,Executive General and Administration,Hao,Chen,hao0@nuggetlab.com,806-555-0136
+alex0,155,Production Technician - WC45,1400 Gate Drive,Newport Hills,98006,Washington,Manufacturing,Alex,Nayberg,alex0@nuggetlab.com,819-555-0198
+eugene1,156,Production Technician - WC60,991 Vista Verde,Duvall,98019,Washington,Manufacturing,Eugene,Kogan,eugene1@nuggetlab.com,173-555-0179
+brandon0,157,Production Technician - WC60,8000 Crane Court,Redmond,98052,Washington,Manufacturing,Brandon,Heidepriem,brandon0@nuggetlab.com,429-555-0137
+dylan0,158,Research and Development Manager,7048 Laurel,Kenmore,98028,Washington,Research and Development,Dylan,Miller,dylan0@nuggetlab.com,181-555-0156
+shane0,159,Production Supervisor - WC45,9745 Bonita Ct.,Bellevue,98004,Washington,Manufacturing,Shane,Kim,shane0@nuggetlab.com,810-555-0178
+john2,160,Production Technician - WC20,3977 Central Avenue,Duvall,98019,Washington,Manufacturing,John,Chen,john2@nuggetlab.com,201-555-0163
+karen0,161,Document Control Assistant,3127 El Camino Drive,Index,98256,Washington,Quality Assurance,Karen,Berge,karen0@nuggetlab.com,746-555-0164
+jose0,162,Production Technician - WC60,5125 Cotton Ct.,Seattle,98104,Washington,Manufacturing,Jose,Lugo,jose0@nuggetlab.com,587-555-0115
+mandar0,163,Production Technician - WC50,2598 La Vista Circle,Duvall,98019,Washington,Manufacturing,Mandar,Samant,mandar0@nuggetlab.com,140-555-0132
+mikael0,164,Buyer,9539 Glenside Dr,Bothell,98011,Washington,Inventory Management,Mikael,Sandberg,mikael0@nuggetlab.com,309-555-0170
+sameer0,165,Production Technician - WC50,"5379 Treasure Island Way, # 14",Duvall,98019,Washington,Manufacturing,Sameer,Tejani,sameer0@nuggetlab.com,990-555-0172
+dragan0,166,Accounts Payable Specialist,"3884 Beauty Street, # 14",Gold Bar,98251,Washington,Executive General and Administration,Dragan,Tomic,dragan0@nuggetlab.com,117-555-0185
+carol0,167,Production Technician - WC30,6872 Thornwood Dr.,Bothell,98011,Washington,Manufacturing,Carol,Philips,carol0@nuggetlab.com,609-555-0153
+rob1,168,Production Technician - WC40,5030 Blue Ridge Dr.,Monroe,98272,Washington,Manufacturing,Rob,Caron,rob1@nuggetlab.com,238-555-0116
+don0,169,Production Technician - WC50,1411 Ranch Drive,Carnation,98014,Washington,Manufacturing,Don,Hall,don0@nuggetlab.com,100-555-0174
+alan0,170,Scheduling Assistant,25 95th Ave NE,Kenmore,98028,Washington,Manufacturing,Alan,Brewer,alan0@nuggetlab.com,438-555-0172
+david7,171,Production Technician - WC30,158 Walnut Ave,Monroe,98272,Washington,Manufacturing,David,Lawrence,david7@nuggetlab.com,118-555-0177
+baris0,172,Production Technician - WC40,426 San Rafael,Seattle,98104,Washington,Manufacturing,Baris,Cetinok,baris0@nuggetlab.com,164-555-0114
+michael3,173,Production Supervisor - WC30,6498 Mining Rd.,Seattle,98104,Washington,Manufacturing,Michael,Ray,michael3@nuggetlab.com,156-555-0199
+steve0,174,Production Technician - WC60,1398 Yorba Linda,Seattle,98104,Washington,Manufacturing,Steve,Masters,steve0@nuggetlab.com,712-555-0170
+suchitra0,175,Production Technician - WC60,5678 Clear Court,Bellevue,98004,Washington,Manufacturing,Suchitra,Mohan,suchitra0@nuggetlab.com,753-555-0129
+karen1,176,Application Specialist,5256 Chickpea Ct.,Issaquah,98027,Washington,Executive General and Administration,Karen,Berg,karen1@nuggetlab.com,654-555-0177
+terrence0,177,Production Technician - WC20,6968 Wren Ave.,Bellevue,98004,Washington,Manufacturing,Terrence,Earls,terrence0@nuggetlab.com,110-555-0115
+barbara1,178,Accountant,137 Mazatlan,Seattle,98104,Washington,Executive General and Administration,Barbara,Moreland,barbara1@nuggetlab.com,822-555-0145
+chad0,179,Production Technician - WC50,5747 Shirley Drive,Bothell,98011,Washington,Manufacturing,Chad,Niswonger,chad0@nuggetlab.com,559-555-0175
+rostislav0,180,Production Technician - WC30,3711 Rollingwood Dr,Bellevue,98004,Washington,Manufacturing,Rostislav,Shabalin,rostislav0@nuggetlab.com,751-555-0134
+belinda0,181,Production Technician - WC45,1399 Firestone Drive,Bothell,98011,Washington,Manufacturing,Belinda,Newman,belinda0@nuggetlab.com,319-555-0126
+katie0,182,Production Supervisor - WC20,4948 West 4th St,Seattle,98104,Washington,Manufacturing,Katie,McAskill-White,katie0@nuggetlab.com,809-555-0133
+russell1,183,Production Technician - WC30,3919 Pinto Road,Bellevue,98004,Washington,Manufacturing,Russell,King,russell1@nuggetlab.com,517-555-0122
+jack0,184,Production Supervisor - WC30,1356 Grove Way,Monroe,98272,Washington,Manufacturing,Jack,Richins,jack0@nuggetlab.com,552-555-0111
+andrew0,185,Production Supervisor - WC10,6629 Polson Circle,Everett,98201,Washington,Manufacturing,Andrew,Hill,andrew0@nuggetlab.com,908-555-0159
+nicole0,186,Production Technician - WC40,"3243 Buckingham Dr., # 207",Seattle,98104,Washington,Manufacturing,Nicole,Holliday,nicole0@nuggetlab.com,508-555-0129
+frank1,187,Production Technician - WC50,591 Merriewood Drive,Snohomish,98296,Washington,Manufacturing,Frank,Miller,frank1@nuggetlab.com,167-555-0139
+peter1,188,Network Administrator,9530 Vine Lane,Issaquah,98027,Washington,Executive General and Administration,Peter,Connelly,peter1@nuggetlab.com,310-555-0133
+anibal0,189,Production Technician - WC20,6891 Ham Drive,Redmond,98052,Washington,Manufacturing,Anibal,Sousa,anibal0@nuggetlab.com,106-555-0120
+ken1,190,Production Technician - WC40,1362 Somerset Place,Everett,98201,Washington,Manufacturing,Ken,Myer,ken1@nuggetlab.com,949-555-0174
+grant0,191,Human Resources Administrative Assistant,213 Stonewood Drive,Gold Bar,98251,Washington,Executive General and Administration,Grant,Culbertson,grant0@nuggetlab.com,955-555-0131
+michael4,192,Production Technician - WC50,2482 Buckingham Dr.,Redmond,98052,Washington,Manufacturing,Michael,Entin,michael4@nuggetlab.com,817-555-0186
+lionel0,193,Production Technician - WC45,7765 Sunsine Drive,Seattle,98104,Washington,Manufacturing,Lionel,Penuchot,lionel0@nuggetlab.com,450-555-0152
+thomas0,194,Production Technician - WC60,7338 Green St.,Edmonds,98020,Washington,Manufacturing,Thomas,Michaels,thomas0@nuggetlab.com,278-555-0118
+jimmy0,195,Stocker,2176 Brown Street,Renton,98055,Washington,Inventory Management,Jimmy,Bischoff,jimmy0@nuggetlab.com,927-555-0168
+michael5,196,Production Technician - WC30,2812 Mazatlan,Edmonds,98020,Washington,Manufacturing,Michael,Vanderhyde,michael5@nuggetlab.com,296-555-0121
+lori0,197,Production Supervisor - WC45,3066 Wallace Dr.,Redmond,98052,Washington,Manufacturing,Lori,Kane,lori0@nuggetlab.com,289-555-0196
+arvind0,198,Buyer,9495 Limewood Place,Renton,98055,Washington,Inventory Management,Arvind,Rao,arvind0@nuggetlab.com,848-555-0163
+stefen0,199,Production Technician - WC20,8463 Vista Avenue,Duvall,98019,Washington,Manufacturing,Stefen,Hesse,stefen0@nuggetlab.com,165-555-0113
+hazem0,200,Quality Assurance Manager,5050 Mt. Wilson Way,Kenmore,98028,Washington,Quality Assurance,Hazem,Abolrous,hazem0@nuggetlab.com,869-555-0125
+janet0,201,Accounts Payable Specialist,6871 Thornwood Dr.,Sammamish,98074,Washington,Executive General and Administration,Janet,Sheperdigian,janet0@nuggetlab.com,393-555-0186
+elizabeth0,202,Production Technician - WC50,350 Pastel Drive,Kent,98031,Washington,Manufacturing,Elizabeth,Keyser,elizabeth0@nuggetlab.com,318-555-0137
+terry0,203,Marketing Specialist,8668 Via Neruda,Bellevue,98004,Washington,Sales and Marketing,Terry,Eminhizer,terry0@nuggetlab.com,138-555-0118
+john3,204,Production Technician - WC30,3665 Oak Creek Ct.,Everett,98201,Washington,Manufacturing,John,Frum,john3@nuggetlab.com,663-555-0172
+merav0,205,Production Technician - WC30,5666 Hazelnut Lane,Seattle,98104,Washington,Manufacturing,Merav,Netz,merav0@nuggetlab.com,224-555-0187
+brian1,206,Scheduling Assistant,2294 West 39th St.,Everett,98201,Washington,Manufacturing,Brian,LaMee,brian1@nuggetlab.com,313-555-0196
+kitti0,207,Production Technician - WC50,5376 Catanzaro Way,Seattle,98104,Washington,Manufacturing,Kitti,Lertpiriyasuwat,kitti0@nuggetlab.com,785-555-0132
+jay0,208,Production Technician - WC60,896 Southdale,Monroe,98272,Washington,Manufacturing,Jay,Adams,jay0@nuggetlab.com,407-555-0165
+jan0,209,Production Technician - WC30,8624 Pepper Way,Everett,98201,Washington,Manufacturing,Jan,Miksovsky,jan0@nuggetlab.com,139-555-0131
+brenda0,210,Production Supervisor - WC40,1349 Steven Way,Seattle,98104,Washington,Manufacturing,Brenda,Diaz,brenda0@nuggetlab.com,142-555-0139
+andrew1,211,Production Technician - WC45,4444 Pepper Way,Sammamish,98074,Washington,Manufacturing,Andrew,Cencini,andrew1@nuggetlab.com,207-555-0192
+chris1,212,Control Specialist,989 Crown Ct,Issaquah,98027,Washington,Quality Assurance,Chris,Norred,chris1@nuggetlab.com,575-555-0126
+chris2,213,Production Technician - WC60,8467 Clifford Court,Redmond,98052,Washington,Manufacturing,Chris,Okelberry,chris2@nuggetlab.com,315-555-0144
+shelley0,214,Production Technician - WC20,3747 W. Landing Avenue,Monroe,98272,Washington,Manufacturing,Shelley,Dyck,shelley0@nuggetlab.com,991-555-0184
+gabe0,215,Production Technician - WC40,1061 Buskrik Avenue,Edmonds,98020,Washington,Manufacturing,Gabe,Mares,gabe0@nuggetlab.com,310-555-0117
+mike0,216,Accountant,1245 Clay Road,Index,98256,Washington,Executive General and Administration,Mike,Seamans,mike0@nuggetlab.com,927-555-0150
+michael6,217,Research and Development Manager,1234 Seaside Way,San Francisco,94109,California,Research and Development,Michael,Raheem,michael6@nuggetlab.com,330-555-2568
+gary1,218,Facilities Manager,2598 Breck Court,Renton,98055,Washington,Executive General and Administration,Gary,Altman,gary1@nuggetlab.com,110-555-0112
+charles0,219,Production Technician - WC60,5263 Etcheverry Dr,Sammamish,98074,Washington,Manufacturing,Charles,Fitzgerald,charles0@nuggetlab.com,931-555-0118
+ebru0,220,Production Technician - WC10,8316 La Salle St.,Sammamish,98074,Washington,Manufacturing,Ebru,Ersan,ebru0@nuggetlab.com,202-555-0187
+sylvester0,221,Production Technician - WC20,"7902 Grammercy Lane, Unit A",Bellevue,98004,Washington,Manufacturing,Sylvester,Valdez,sylvester0@nuggetlab.com,492-555-0174
+brian2,222,Production Technician - WC40,8157 W. Book,Bothell,98011,Washington,Manufacturing,Brian,Goldstein,brian2@nuggetlab.com,730-555-0117
+linda2,223,Buyer,6118 Grasswood Circle,Bellevue,98004,Washington,Inventory Management,Linda,Meisner,linda2@nuggetlab.com,916-555-0165
+betsy0,224,Production Technician - WC10,5672 Hale Dr.,Bothell,98011,Washington,Manufacturing,Betsy,Stadick,betsy0@nuggetlab.com,405-555-0171
+magnus0,225,Facilities Administrative Assistant,9533 Working Drive,Renton,98055,Washington,Executive General and Administration,Magnus,Hedlund,magnus0@nuggetlab.com,583-555-0182
+karan0,226,Production Technician - WC60,1102 Ravenwood,Seattle,98104,Washington,Manufacturing,Karan,Khanna,karan0@nuggetlab.com,447-555-0186
+mary1,227,Production Technician - WC10,2354 Frame Ln.,Seattle,98104,Washington,Manufacturing,Mary,Baker,mary1@nuggetlab.com,283-555-0185
+kevin2,228,Production Technician - WC10,"6058 Hill Street, # 4",Bellevue,98004,Washington,Manufacturing,Kevin,Homer,kevin2@nuggetlab.com,555-555-0113
+mihail0,229,Production Technician - WC40,2466 Clearland Circle,Edmonds,98020,Washington,Manufacturing,Mihail,Frintu,mihail0@nuggetlab.com,733-555-0128
+bonnie0,230,Production Technician - WC10,4852 Chaparral Court,Snohomish,98296,Washington,Manufacturing,Bonnie,Kearney,bonnie0@nuggetlab.com,264-555-0150
+fukiko0,231,Buyer,8751 Norse Drive,Bellevue,98004,Washington,Inventory Management,Fukiko,Ogisu,fukiko0@nuggetlab.com,520-555-0177
+hung-fu0,232,Production Technician - WC20,7086 O St.,Sammamish,98074,Washington,Manufacturing,Hung-Fu,Ting,hung-fu0@nuggetlab.com,497-555-0181
+gordon0,233,Buyer,108 Lakeside Court,Bellevue,98004,Washington,Inventory Management,Gordon,Hee,gordon0@nuggetlab.com,230-555-0144
+kimberly0,234,Production Technician - WC10,8656 Lakespring Place,Seattle,98104,Washington,Manufacturing,Kimberly,Zimmerman,kimberly0@nuggetlab.com,123-555-0167
+kim1,235,Production Technician - WC60,9752 Jeanne Circle,Carnation,98014,Washington,Manufacturing,Kim,Abercrombie,kim1@nuggetlab.com,208-555-0114
+sandeep0,236,Production Technician - WC40,4310 Kenston Dr.,Sammamish,98074,Washington,Manufacturing,Sandeep,Kaliyath,sandeep0@nuggetlab.com,166-555-0156
+prasanna0,237,Production Technician - WC20,9322 Driving Drive,Redmond,98052,Washington,Manufacturing,Prasanna,Samarawickrama,prasanna0@nuggetlab.com,129-555-0199
+frank2,238,Buyer,"5980 Icicle Circle, Unit H",Renton,98055,Washington,Inventory Management,Frank,Pellow,frank2@nuggetlab.com,163-555-0147
+min0,239,Production Technician - WC20,7396 Stratton Circle,Bellevue,98004,Washington,Manufacturing,Min,Su,min0@nuggetlab.com,590-555-0152
+eric1,240,Production Technician - WC40,5086 Nottingham Place,Duvall,98019,Washington,Manufacturing,Eric,Brown,eric1@nuggetlab.com,680-555-0118
+eric2,241,Buyer,1378 String Dr,Renton,98055,Washington,Inventory Management,Eric,Kurjan,eric2@nuggetlab.com,265-555-0195
+pat0,242,Janitor,2425 Notre Dame Ave,Gold Bar,98251,Washington,Executive General and Administration,Pat,Coleman,pat0@nuggetlab.com,720-555-0158
+maciej0,243,Production Technician - WC60,3026 Anchor Drive,Edmonds,98020,Washington,Manufacturing,Maciej,Dusza,maciej0@nuggetlab.com,237-555-0128
+erin0,244,Buyer,2947 Vine Lane,Bellevue,98004,Washington,Inventory Management,Erin,Hagens,erin0@nuggetlab.com,842-555-0158
+patrick0,245,Production Technician - WC10,3067 Maya,Bellevue,98004,Washington,Manufacturing,Patrick,Wedge,patrick0@nuggetlab.com,413-555-0124
+frank3,246,Production Technician - WC40,5724 Victory Lane,Snohomish,98296,Washington,Manufacturing,Frank,Martinez,frank3@nuggetlab.com,203-555-0196
+ed0,247,Production Technician - WC60,4598 Manila Avenue,Seattle,98104,Washington,Manufacturing,Ed,Dudenhoefer,ed0@nuggetlab.com,919-555-0140
+christopher0,248,Production Technician - WC10,1902 Santa Cruz,Bothell,98011,Washington,Manufacturing,Christopher,Hill,christopher0@nuggetlab.com,153-555-0166
+patrick1,249,Production Technician - WC40,9537 Ridgewood Drive,Seattle,98104,Washington,Manufacturing,Patrick,Cook,patrick1@nuggetlab.com,425-555-0117
+krishna0,250,Production Technician - WC20,6870 D Bel Air Drive,Edmonds,98020,Washington,Manufacturing,Krishna,Sunkammurali,krishna0@nuggetlab.com,491-555-0183
+lori1,251,Janitor,3514 Sunshine,Index,98256,Washington,Executive General and Administration,Lori,Penor,lori1@nuggetlab.com,295-555-0161
+danielle0,252,Production Technician - WC10,5203 Virginia Lane,Kenmore,98028,Washington,Manufacturing,Danielle,Tiedt,danielle0@nuggetlab.com,500-555-0172
+sootha0,253,Quality Assurance Technician,4155 Working Drive,Kenmore,98028,Washington,Quality Assurance,Sootha,Charncherngkha,sootha0@nuggetlab.com,325-555-0137
+michael7,254,Production Technician - WC60,7511 Cooper Dr.,Edmonds,98020,Washington,Manufacturing,Michael,Zwilling,michael7@nuggetlab.com,582-555-0148
+randy0,255,Production Technician - WC60,3632 Bank Way,Edmonds,98020,Washington,Manufacturing,Randy,Reeves,randy0@nuggetlab.com,961-555-0122
+john4,256,Production Technician - WC10,8209 Green View Court,Duvall,98019,Washington,Manufacturing,John,Kane,john4@nuggetlab.com,254-555-0114
+jack1,257,Production Technician - WC40,874 Olivera Road,Seattle,98104,Washington,Manufacturing,Jack,Creasey,jack1@nuggetlab.com,521-555-0113
+olinda0,258,Production Technician - WC20,7221 Peachwillow Street,Bellevue,98004,Washington,Manufacturing,Olinda,Turner,olinda0@nuggetlab.com,306-555-0186
+stuart1,259,Janitor,2266 Greenwood Circle,Renton,98055,Washington,Executive General and Administration,Stuart,Macrae,stuart1@nuggetlab.com,539-555-0149
+jo1,260,Janitor,1748 Bird Drive,Index,98256,Washington,Executive General and Administration,Jo,Berry,jo1@nuggetlab.com,228-555-0159
+ben0,261,Buyer,101 Candy Rd.,Redmond,98052,Washington,Inventory Management,Ben,Miller,ben0@nuggetlab.com,151-555-0113
+tom0,262,Production Technician - WC10,5242 Marvelle Ln.,Everett,98201,Washington,Manufacturing,Tom,Vande Velde,tom0@nuggetlab.com,295-555-0161
+ovidiu0,263,Senior Tool Designer,5458 Gladstone Drive,Kenmore,98028,Washington,Research and Development,Ovidiu,Cracium,ovidiu0@nuggetlab.com,719-555-0181
+annette0,264,Purchasing Assistant,6369 Ellis Street,Redmond,98052,Washington,Inventory Management,Annette,Hill,annette0@nuggetlab.com,125-555-0196
+janice0,265,Tool Designer,3397 Rancho View Drive,Redmond,98052,Washington,Research and Development,Janice,Galvin,janice0@nuggetlab.com,473-555-0117
+reinout0,266,Purchasing Assistant,620 Woodside Ct.,Bellevue,98004,Washington,Inventory Management,Reinout,Hillmann,reinout0@nuggetlab.com,370-555-0163
+michael8,267,Senior Design Engineer,6510 Hacienda Drive,Renton,98055,Washington,Research and Development,Michael,Sullivan,michael8@nuggetlab.com,465-555-0156
+stephen0,268,North American Sales Manager,2427 Notre Dame Ave.,Redmond,98052,Washington,Sales and Marketing,Stephen,Jiang,stephen0@nuggetlab.com,238-555-0197
+wanida0,269,Marketing Assistant,6951 Harmony Way,Sammamish,98074,Washington,Sales and Marketing,Wanida,Benshoof,wanida0@nuggetlab.com,708-555-0141
+sharon0,270,Design Engineer,7165 Brock Lane,Renton,98055,Washington,Research and Development,Sharon,Salavaria,sharon0@nuggetlab.com,970-555-0138
+john5,271,Marketing Specialist,9906 Oak Grove Road,Redmond,98052,Washington,Sales and Marketing,John,Wood,john5@nuggetlab.com,486-555-0150
+mary2,272,Marketing Assistant,6307 Greenbelt Way,Bellevue,98004,Washington,Sales and Marketing,Mary,Dempsey,mary2@nuggetlab.com,124-555-0114
+brian3,273,Vice President of Sales,7772 Golden Meadow,Issaquah,98027,Washington,Sales and Marketing,Brian,Welcker,brian3@nuggetlab.com,716-555-0127
+sheela0,274,Purchasing Manager,535 Greendell Pl,Sammamish,98074,Washington,Inventory Management,Sheela,Word,sheela0@nuggetlab.com,210-555-0193
+michael9,275,Sales Representative,8154 Via Mexico,Detroit,48226,Michigan,Sales and Marketing,Michael,Blythe,michael9@nuggetlab.com,257-555-0154
+linda3,276,Sales Representative,2487 Riverside Drive,Nevada,84407,Utah,Sales and Marketing,Linda,Mitchell,linda3@nuggetlab.com,883-555-0116
+jillian0,277,Sales Representative,80 Sunview Terrace,Duluth,55802,Minnesota,Sales and Marketing,Jillian,Carson,jillian0@nuggetlab.com,517-555-0117
+garrett1,278,Sales Representative,10203 Acorn Avenue,Calgary,T2P 2G8,Alberta,Sales and Marketing,Garrett,Vargas,garrett1@nuggetlab.com,922-555-0165
+tsvi0,279,Sales Representative,8291 Crossbow Way,Memphis,38103,Tennessee,Sales and Marketing,Tsvi,Reiter,tsvi0@nuggetlab.com,664-555-0112
+pamela0,280,Sales Representative,636 Vine Hill Way,Portland,97205,Oregon,Sales and Marketing,Pamela,Ansman-Wolfe,pamela0@nuggetlab.com,340-555-0193
+shu0,281,Sales Representative,5725 Glaze Drive,San Francisco,94109,California,Sales and Marketing,Shu,Ito,shu0@nuggetlab.com,330-555-0120
+josé1,282,Sales Representative,9100 Sheppard Avenue North,Ottawa,K4B 1T7,Ontario,Sales and Marketing,José,Saraiva,josé1@nuggetlab.com,185-555-0169
+david8,283,Sales Representative,2284 Azalea Avenue,Bellevue,98004,Washington,Sales and Marketing,David,Campbell,david8@nuggetlab.com,740-555-0182
+amy0,284,European Sales Manager,5009 Orange Street,Renton,98055,Washington,Sales and Marketing,Amy,Alberts,amy0@nuggetlab.com,775-555-0164
+jae0,285,Sales Representative,Downshire Way,Cambridge,BA5 3HX,England,Sales and Marketing,Jae,Pak,jae0@nuggetlab.com,1 (11) 500 555-0145
+ranjit0,286,Sales Representative,"94, rue Descartes",Bordeaux,33000,Gironde,Sales and Marketing,Ranjit,Varkey Chudukatil,ranjit0@nuggetlab.com,1 (11) 500 555-0117
+tete0,287,Sales Representative,3997 Via De Luna,Cambridge,02139,Massachusetts,Sales and Marketing,Tete,Mensa-Annan,tete0@nuggetlab.com,615-555-0153
+syed0,288,Pacific Sales Manager,7484 Roundtree Drive,Bothell,98011,Washington,Sales and Marketing,Syed,Abbas,syed0@nuggetlab.com,926-555-0182
+rachel0,289,Sales Representative,Pascalstr 951,Berlin,14111,Hamburg,Sales and Marketing,Rachel,Valdez,rachel0@nuggetlab.com,1 (11) 500 555-0140
+lynn0,290,Sales Representative,34 Waterloo Road,Melbourne,3000,Victoria,Sales and Marketing,Lynn,Tsoflias,lynn0@nuggetlab.com,1 (11) 500 555-0190
