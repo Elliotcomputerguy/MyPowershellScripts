@@ -3,7 +3,10 @@
 Enter-PSSession HV1-NUG
 
 # create generation 2 VM
-New-VM -Name GUI-NUG -MemoryStartupBytes 2GB -NewVHDPath V:\VMs\GUI-NUG.vhdx -NewVHDSizeBytes 40GB -Generation 2
+New-VM -Name GUI-NUG -MemoryStartupBytes 2GB -NewVHDPath V:\VMs\GUI-NUG.vhdx -NewVHDSizeBytes 40GB -Generation 2 -Switch "Hyper-V Network"
+
+# Assign to vlan 
+Set-VMNetworkAdapterVlan -VMName 6WHESK01 -Access -VlanId 11
 
 # add SCSI controller for DVD drive
 Add-VMScsiController -VMName GUI-NUG
