@@ -61,3 +61,8 @@ Invoke-Command -ComputerName WEB-NUG -ScriptBlock { Get-Service W3SVC, WMSVC }
 
 # use the built in computername parameter (windows - dcom)
 Get-Service -ComputerName WEB-NUG
+
+# When managing from a win 10 machine you need to add the below into the client win 10 machine
+
+winrm quickconfig
+winrm set winrm/config/client '@{TrustedHosts="Computer1,Computer2"}'
