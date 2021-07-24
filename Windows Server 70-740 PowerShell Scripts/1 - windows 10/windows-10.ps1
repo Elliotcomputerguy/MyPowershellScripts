@@ -40,3 +40,8 @@ Invoke-Command -ComputerName computer, computer -FilePath c:\dir\powershell.ps1
 get-executionPolicy
 set-executionpolicy -ExecutionPolicy RemoteSigned
 
+# When managing from a win 10 machine you need to add the below into the client win 10 machine
+
+winrm quickconfig
+winrm set winrm/config/client '@{TrustedHosts="Computer1,Computer2"}'
+
