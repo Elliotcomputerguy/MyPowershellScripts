@@ -1,0 +1,20 @@
+
+REF: https://www.c-sharpcorner.com/article/step-by-step-installation-of-active-directory-on-windows-server-2019-core/
+
+# Install ADDC
+Install-WindowsFeature -Name AD-Domain-Services -IncludeManagementTools
+
+# locate all cmds for AD
+Get-Command -Module ADDSDeployment
+
+# Install new forest
+Install-ADDSForest
+
+# This will ask you for the Domain Name and SafeMode password. 
+# Make sure you write this down in a safe place. It will be very useful in case of disaster recovery.
+
+#add a domain admin
+New-ADUser –Name “Elliots” –GivenName Elliot –Surname Stenning –SamAccountName Elliots –UserPrincipalName Elliots@ecg.int
+Set-ADAccountPassword ‘CN=Elliots,CN=users,DC=ecg,DC=int’ -Reset -NewPassword (ConvertTo-SecureString -AsPlainText “PASSWORD” -Force)
+Enable-ADAccount -Identity Elliots
+Add-AdGroupMember ‘Domain Admins’ Elliots
