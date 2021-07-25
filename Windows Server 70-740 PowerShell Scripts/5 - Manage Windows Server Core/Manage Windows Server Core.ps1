@@ -31,6 +31,14 @@ add-computer -domainname domainname.com
 #restart-computer
 restart-computer
 
+# Disable IPV6
+Get-NetAdapterBinding
+Disable-NetAdapterBinding –InterfaceAlias “Ethernet0” –ComponentID ms_tcpip6
+
+# add ip address
+Get-NetAdapter -Name *
+New-NetIPAddress -InterfaceIndex 12 -IPAddress 192.168.0.1 -prefixLength 24 -Gateway 192.168.0.254 
+Set-NetIPAddress -InterfaceIndex 12 -IPAddress 192.168.0.1 -PrefixLength 24
 
 # enter a powershell session on a remote machine
 Enter-PSSession -ComputerName CORE-NUG
@@ -61,3 +69,8 @@ Invoke-Command -ComputerName WEB-NUG -ScriptBlock { Get-Service W3SVC, WMSVC }
 
 # use the built in computername parameter (windows - dcom)
 Get-Service -ComputerName WEB-NUG
+
+# When managing from a win 10 machine you need to add the below into the client win 10 machine
+
+winrm quickconfig
+winrm set winrm/config/client '@{TrustedHosts="Computer1,Computer2"}'
