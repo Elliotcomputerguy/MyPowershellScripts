@@ -31,6 +31,14 @@ add-computer -domainname domainname.com
 #restart-computer
 restart-computer
 
+# Disable IPV6
+Get-NetAdapterBinding
+Disable-NetAdapterBinding –InterfaceAlias “Ethernet0” –ComponentID ms_tcpip6
+
+# add ip address
+Get-NetAdapter -Name *
+New-NetIPAddress -InterfaceIndex 12 -IPAddress 192.168.0.1 -prefixLength 24 -Gateway 192.168.0.254 
+Set-NetIPAddress -InterfaceIndex 12 -IPAddress 192.168.0.1 -PrefixLength 24
 
 # enter a powershell session on a remote machine
 Enter-PSSession -ComputerName CORE-NUG
