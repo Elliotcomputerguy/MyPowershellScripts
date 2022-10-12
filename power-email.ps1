@@ -1,0 +1,2 @@
+$msolcred = get-credential
+Send-MailMessage –From elliot@elliotcomputerguy.com –To elliot@elliotcomputerguy.com –Subject “Guess what!” –Body “I am Testing the SMTP Relay Service from PowerShell” -SmtpServer smtp.office365.com -Credential $msolcred -UseSsl -Port 587
